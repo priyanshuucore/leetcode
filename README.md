@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/251129-lab/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Counting
 |  |
 | ------- |

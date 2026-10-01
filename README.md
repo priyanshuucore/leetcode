@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/251129-lab/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [1929-concatenation-of-array](https://github.com/251129-lab/leetcode/tree/master/1929-concatenation-of-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/251129-lab/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/251129-lab/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/251129-lab/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [0334-increasing-triplet-subsequence](https://github.com/251129-lab/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/251129-lab/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/251129-lab/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->

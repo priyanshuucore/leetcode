@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/251129-lab/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/251129-lab/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/251129-lab/leetcode/tree/master/0709-to-lower-case) |
 | [0680-valid-palindrome-ii](https://github.com/251129-lab/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/251129-lab/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Ternary Search
 |  |
 | ------- |
@@ -405,4 +407,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/251129-lab/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/251129-lab/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/251129-lab/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/251129-lab/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |

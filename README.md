@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/251129-lab/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/251129-lab/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/251129-lab/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/251129-lab/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 ## Ternary Search
 |  |
 | ------- |

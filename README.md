@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/251129-lab/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/251129-lab/leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/251129-lab/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/251129-lab/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
+| [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Stack
 |  |
 | ------- |

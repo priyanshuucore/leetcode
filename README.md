@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/251129-lab/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/251129-lab/leetcode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/251129-lab/leetcode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/251129-lab/leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [0242-valid-anagram](https://github.com/251129-lab/leetcode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
+| [0242-valid-anagram](https://github.com/251129-lab/leetcode/tree/master/0242-valid-anagram) |
 ## Ternary Search
 |  |
 | ------- |

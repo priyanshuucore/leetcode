@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/251129-lab/leetcode/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
 ## Ternary Search
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->

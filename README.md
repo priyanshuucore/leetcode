@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/251129-lab/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/251129-lab/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/251129-lab/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/251129-lab/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1534-count-good-triplets](https://github.com/251129-lab/leetcode/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/251129-lab/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Quicksort
 |  |
 | ------- |

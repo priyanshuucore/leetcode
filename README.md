@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/251129-lab/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/251129-lab/leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/251129-lab/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/251129-lab/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/251129-lab/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/251129-lab/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/251129-lab/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |

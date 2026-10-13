@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/251129-lab/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/251129-lab/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/251129-lab/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/251129-lab/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/251129-lab/leetcode/tree/master/0242-valid-anagram) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/251129-lab/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Sorting
 |  |
 | ------- |

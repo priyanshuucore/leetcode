@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/251129-lab/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [1550-three-consecutive-odds](https://github.com/251129-lab/leetcode/tree/master/1550-three-consecutive-odds) |
 | [0015-3sum](https://github.com/251129-lab/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/251129-lab/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0015-3sum](https://github.com/251129-lab/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/251129-lab/leetcode/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [0242-valid-anagram](https://github.com/251129-lab/leetcode/tree/master/0242-valid-anagram) |
 | [0015-3sum](https://github.com/251129-lab/leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
 ## Counting
 |  |
 | ------- |

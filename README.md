@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/251129-lab/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/251129-lab/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/251129-lab/leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [1550-three-consecutive-odds](https://github.com/251129-lab/leetcode/tree/master/1550-three-consecutive-odds) |
 ## Two Pointers
 |  |
 | ------- |

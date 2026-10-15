@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/251129-lab/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/251129-lab/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/251129-lab/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [1534-count-good-triplets](https://github.com/251129-lab/leetcode/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/251129-lab/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
 ## Quicksort
 |  |
 | ------- |
@@ -441,4 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->

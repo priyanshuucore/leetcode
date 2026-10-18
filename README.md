@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/251129-lab/leetcode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/251129-lab/leetcode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |

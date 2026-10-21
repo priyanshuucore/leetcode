@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/251129-lab/leetcode/tree/master/1550-three-consecutive-odds) |
 | [0015-3sum](https://github.com/251129-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/251129-lab/leetcode/tree/master/2235-add-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |

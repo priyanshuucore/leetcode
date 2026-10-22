@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/251129-lab/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/251129-lab/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/251129-lab/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->

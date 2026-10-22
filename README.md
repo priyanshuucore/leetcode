@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/251129-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/251129-lab/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/251129-lab/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [1929-concatenation-of-array](https://github.com/251129-lab/leetcode/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/251129-lab/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
 ## Queue
 |  |
 | ------- |

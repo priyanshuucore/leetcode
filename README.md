@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
 | [0242-valid-anagram](https://github.com/251129-lab/leetcode/tree/master/0242-valid-anagram) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/251129-lab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/251129-lab/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Ternary Search
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/251129-lab/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1021-remove-outermost-parentheses](https://github.com/251129-lab/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/251129-lab/leetcode/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/251129-lab/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Prime Factorization
 |  |
 | ------- |

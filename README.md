@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/251129-lab/leetcode/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/251129-lab/leetcode/tree/master/2235-add-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/251129-lab/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Bit Manipulation
 |  |
 | ------- |

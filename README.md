@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/251129-lab/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [0189-rotate-array](https://github.com/251129-lab/leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0015-3sum](https://github.com/251129-lab/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/251129-lab/leetcode/tree/master/0018-4sum) |
+| [0189-rotate-array](https://github.com/251129-lab/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/251129-lab/leetcode/tree/master/2235-add-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/251129-lab/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/251129-lab/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [0189-rotate-array](https://github.com/251129-lab/leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |

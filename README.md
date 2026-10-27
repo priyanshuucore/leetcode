@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/251129-lab/leetcode/tree/master/0682-baseball-game) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/251129-lab/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [0189-rotate-array](https://github.com/251129-lab/leetcode/tree/master/0189-rotate-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/251129-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/251129-lab/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/251129-lab/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/251129-lab/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1004-max-consecutive-ones-iii](https://github.com/251129-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/251129-lab/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [0525-contiguous-array](https://github.com/251129-lab/leetcode/tree/master/0525-contiguous-array) |
 | [1732-find-the-highest-altitude](https://github.com/251129-lab/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1004-max-consecutive-ones-iii](https://github.com/251129-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/251129-lab/leetcode/tree/master/0567-permutation-in-string) |
 | [0219-contains-duplicate-ii](https://github.com/251129-lab/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/251129-lab/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/251129-lab/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |

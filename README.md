@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/251129-lab/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0004-median-of-two-sorted-arrays](https://github.com/251129-lab/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/251129-lab/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0191-number-of-1-bits](https://github.com/251129-lab/leetcode/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/251129-lab/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/251129-lab/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/251129-lab/leetcode/tree/master/0389-find-the-difference) |
+| [0191-number-of-1-bits](https://github.com/251129-lab/leetcode/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
